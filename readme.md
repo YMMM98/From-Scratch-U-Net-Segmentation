@@ -12,7 +12,7 @@ This repository is divided into two main folders:
 
 With how much Diffusion and the big models like SDXL are taking over and abstracting a lot of stuff, I end up only playing with ComfyUI with nodes. It's easy to forget the basics, I am doing this to not forget everything!
 
-Since Unet came out in 2015, it's still been used as an underlying architecture for many other models. Such as the recent [SDXL](https://arxiv.org/abs/2102.08602) model.
+Since its introduction in 2015, the U-Net architecture started with image segmentation but has also found critical application in cutting-edge AI models like [Stable Diffusion](https://arxiv.org/abs/2307.01952) and [ControlNet](https://arxiv.org/abs/2302.05543).
 
 ## More About U-NET
 
